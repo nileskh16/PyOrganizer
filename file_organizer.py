@@ -1,4 +1,6 @@
-import os, optparse, traceback
+import os
+import optparse
+import traceback
 #from pathlib import Path
 
 DIRECTORIES = {
